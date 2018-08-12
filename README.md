@@ -8,7 +8,7 @@ In multiple threads, the bot loops a three part trade sequence which is 1) buy a
 
 # dependencies and use
 
-No dependencies outside of standard library. To use, copy and paste your api private key and secret where it says at top of module. See part of code under `if __name__ == '__main__'` to see how to get the bot trading. You can also use the class `HitBTCArbBot` independent of the bot, as in the below command line examples. 
+No dependencies outside of the standard library. To use, copy and paste your api private key and secret where it says at top of module. See part of code under `if __name__ == '__main__'` to see how to get the bot trading. You can also use the class `HitBTCArbBot` independent of the bot, as in the below command line examples. 
 
 ```
 >>> from hitbtc_arb_bot import *
