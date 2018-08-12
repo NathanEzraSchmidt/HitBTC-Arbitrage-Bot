@@ -1,10 +1,6 @@
 # HitBTC-Arbitrage-Bot
 
-# Binance-Arbitrage-Bot
-
 The same as my Binance Arbitrage Bot but runs on HitBTC.
-
-Bot that arbitrages between the ETH and BTC markets on Binance with the goal of winning ETH. 
 
 # how it works
 
